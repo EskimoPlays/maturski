@@ -6,7 +6,6 @@
 
 ### Running
 <ol>
-  <li>Lančovati `build.bat`</li>
   <li>Otvoriti aplikaciju u VS-u ili VS kodu</li>
   <li>Pokrenuti aplikaciju i uživati</li>
 </ol>
