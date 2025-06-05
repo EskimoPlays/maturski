@@ -9,4 +9,4 @@ cd %BUILD_DIR%
 
 cmake ..
 
-cmake --build .
+cmake --build . --parallel %NUMBER_OF_PROCESSORS%
